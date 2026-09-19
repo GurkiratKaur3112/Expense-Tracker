@@ -17,6 +17,13 @@ A simple **Full-Stack Expense Tracker** built using the MERN stack.
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB, Mongoose
 
+
+## Architecture Diagram
+
+<img width="549" height="236" alt="image" src="https://github.com/user-attachments/assets/551acd2d-71a6-494f-8fd8-9a07e7597341" />
+
+
+
 ## Project Structure
 
 ```text
