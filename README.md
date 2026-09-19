@@ -20,7 +20,7 @@ A simple **Full-Stack Expense Tracker** built using the MERN stack.
 
 ## Architecture Diagram
 
-<img width="549" height="236" alt="image" src="https://github.com/user-attachments/assets/551acd2d-71a6-494f-8fd8-9a07e7597341" />
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/551acd2d-71a6-494f-8fd8-9a07e7597341" />
 
 
 
@@ -97,3 +97,6 @@ MONGODB_URI=mongodb://127.0.0.1:27017/expense_tracker
 * MongoDB aggregation
 * API validation and error handling
 
+## Deployment Diagram 
+
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/e755c9ab-5416-49e2-b6df-d7625dfc4651" />
